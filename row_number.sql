@@ -1,3 +1,4 @@
+# adding one line in feature2 from local
 # added in remote
 # line in local
 this line is in local
