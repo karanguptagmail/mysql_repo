@@ -1,4 +1,5 @@
 # added in remote
+select * from table name
 with cte as
 (
 select *,
