@@ -7,3 +7,4 @@ and
 ( e1.edate = e2.edate - INTERVAL 1 second AND e2.edate < e1.edate)
 where e2.edate is null
 order by e1.edate;
+# row in branch_1
