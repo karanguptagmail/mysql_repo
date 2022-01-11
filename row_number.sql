@@ -1,4 +1,6 @@
 # added in remote
+# line in local
+this line is in local
 select * from table name
 with cte as
 (
