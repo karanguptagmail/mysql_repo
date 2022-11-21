@@ -6,3 +6,5 @@ windowing function
 select
 order by
 limit
+
+# sql order of execution
